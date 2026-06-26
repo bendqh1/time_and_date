@@ -19,6 +19,14 @@
 | Emergence | การเกิดขึ้น |
 | Process | กระบวนการ |
 | Incident | เหตุการณ์ |
+| Crowded | แออัด |
+| Uncrowded | ไม่แออัด |
+| Airy (uncrowded) | โปร่ง |
+| Dispersed (people) | คนกระจายตัว |
+
+### Notes
+
+Spontaneous gathering of people == ชุมนุม
 
 | English | Thai |
 |--------|------|
